@@ -1,3 +1,3 @@
 # print hello...
 
-print ("Hello, Soheil!")
+print ("Hello,", argv[1],"!")
