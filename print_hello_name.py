@@ -1,0 +1,3 @@
+# print hello...
+
+print ("Hello,", argv[1],"!")
